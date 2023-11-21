@@ -1,7 +1,7 @@
 # FuseLGNet.pytorch
 
 ## CoorLGNet Framework
-![image]([https://github.com/BM-AI-Lab/FuseLGNet/blob/master/FuseLGNet_model.png](https://github.com/BM-AI-Lab/FuseLGNet/blob/master/FuseLGNet.png))
+![image](https://github.com/BM-AI-Lab/FuseLGNet/blob/master/FuseLGNet.png)
 
 ### Set up
 ```
