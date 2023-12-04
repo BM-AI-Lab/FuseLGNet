@@ -1,6 +1,6 @@
 # FuseLGNet.pytorch
 
-## CoorLGNet Framework
+## FuseLGNet Framework
 ![image](https://github.com/BM-AI-Lab/FuseLGNet/blob/master/FuseLGNet.png)
 
 ### Set up
